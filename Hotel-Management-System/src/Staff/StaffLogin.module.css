@@ -1,0 +1,30 @@
+.background {
+    background-image: url('https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg?cs=srgb&dl=pexels-pixabay-258154.jpg&fm=jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 583px;
+    color: white;
+}
+.loginas{
+    border:1px solid gray;
+    width: 350px;
+    margin: auto;
+    /* margin-top: 20%; */
+    padding: 20px;
+    text-align: center;
+    position: relative;
+    top: 15%;
+    /* right: 400px; */
+    color: white;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    border-radius: 20px;
+    background: rgba(0,0,0,0.5);
+
+
+}
+h4{
+    color: white;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    padding: 5px;
+
+}
